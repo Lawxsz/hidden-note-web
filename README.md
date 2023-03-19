@@ -1,7 +1,9 @@
 # Hidden Temp Notes!
 Source code for Private Temporal Notes!
 
-Web Reference: http://hidden-note.great-site.net/
+Web Reference: http://hidden-note.great-site.net/ (can use FREE!)
+Login; root
+Password; 123
 
 # Features:
 - Login (only can create notes with login)
